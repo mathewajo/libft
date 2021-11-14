@@ -1,5 +1,6 @@
+![libft](https://user-images.githubusercontent.com/76873228/141696870-31d25b65-131e-40d4-b302-9770f3dee33d.png)
 Libft 115/100
-115/100![libft](https://user-images.githubusercontent.com/76873228/141696870-31d25b65-131e-40d4-b302-9770f3dee33d.png)
+115/100
 
 
 🔖 Index
