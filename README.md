@@ -6,7 +6,7 @@
 
 🔖 Index
 
-What is Libft?
+>What is Libft?
 List of Functions
 Technologies
 ✨ What is Libft?
