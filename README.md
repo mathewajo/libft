@@ -3,7 +3,7 @@ Libft 115/100
 115/100
 
 
-🔖 Index
+**🔖 Index**
 What is Libft?
 List of Functions
 Technologies
