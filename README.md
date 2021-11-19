@@ -1,19 +1,23 @@
-![libft](https://user-images.githubusercontent.com/76873228/141696870-31d25b65-131e-40d4-b302-9770f3dee33d.png)
-Libft 115/100
+Paulo Rafael Ramalho    Stargazers  
+
+ Libft 115/100 
 115/100
 
+🔖 Index
 
-**🔖 Index**
 What is Libft?
 List of Functions
 Technologies
 ✨ What is Libft?
+
 Libft is an individual project at 42 that requires us to re-create some standard C library functions including some additional ones that can be used later to build a library of useful functions for the rest of the program.
 
 At 42 we're not allowed to use some standard libraries on our projects, so we have to keep growing this library with our own functions as we go farther in the program.
 
 📑 List of Functions
+
 Functions from <ctype.h>
+
  ft_isalpha - checks for an alphabetic character.
  ft_isdigit - check for a digit (0 through 9).
  ft_isalnum - checks for an alphanumeric character.
@@ -22,6 +26,7 @@ Functions from <ctype.h>
  ft_toupper - convert char to uppercase.
  ft_tolower - convert char to lowercase.
 Functions from <string.h>
+
  ft_strlen - calculate the length of a string.
  ft_memset - fill memory with a constant byte.
  ft_bzero - zero a byte string.
@@ -37,9 +42,11 @@ Functions from <string.h>
  ft_strnstr - locate a substring in a string.
  ft_strdup - creates a duplicate for the string passed as a parameter.
 Functions from <stdlib.h>
+
  ft_atoi - convert a string to an integer.
  ft_calloc - allocates memory and sets its bytes' values to 0.
 Non-standard functions
+
  ft_substr - returns a substring from a string.
  ft_strjoin - concatenates two strings.
  ft_strtrim - trims the beginning and end of a string with a specific set of chars.
@@ -52,6 +59,7 @@ Non-standard functions
  ft_putendl_fd - output a string to a file descriptor, followed by a new line.
  ft_putnbr_fd - output a number to a file descriptor.
 Linked list functions
+
  ft_lstnew - creates a new list element.
  ft_lstadd_front - adds an element at the beginning of a list.
  ft_lstsize - counts the number of elements in a list.
@@ -61,6 +69,7 @@ Linked list functions
  ft_lstiter - applies a function to each element of a list.
  ft_lstmap - applies a function to each element of a list.
 💻 Technologies
+
 This Project was made with:
 
 C
