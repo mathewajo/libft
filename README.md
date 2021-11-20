@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="100" src="https://user-images.githubusercontent.com/76873228/142725962-f47f49d4-e98a-4312-a6a2-474ab02be26b.png">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/76873228/142725962-f47f49d4-e98a-4312-a6a2-474ab02be26b.png">
 </p>
 
  Libft 115/100 
