@@ -5,6 +5,7 @@
  Libft 115/100 
 115/100
 
+[editing of this page is not completed!]
 🔖 Index
 
 >What is Libft?
